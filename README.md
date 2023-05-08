@@ -33,6 +33,6 @@ In this notebook we are going to simplify it to be: predicting a number.
 
 ## [Tensorflow Fundamentals](https://github.com/onurrtosunn/Deep-Leerning-w-Tensorflow/blob/main/Tensorflow-Fundamentals/tensorflow_fundamentals.ipynb)
 
-We tried Introduction to tensors, Getting information from tensor, Manipulating tensors, Tensors and NumPy, Using @tf.function, Using GPUs with TensorFlow in this notebook
+I tried Introduction to tensors, Getting information from tensor, Manipulating tensors, Tensors and NumPy, Using @tf.function, Using GPUs with TensorFlow in this notebook
 
 
