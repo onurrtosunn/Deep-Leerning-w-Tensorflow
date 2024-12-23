@@ -3,7 +3,7 @@
 
 > onurtosunn0@gmail.com
 
-## [Dog Vision Project](https://github.com/onurrtosunn/Deep-Leerning-w-Tensorflow/tree/main/Dog-Vision)
+## [Dog Vision Project](https://github.com/onurrtosunn/Deep-Leerning-w-Tensorflow/tree/main/Dog-Vision/dog_vision.ipynb)
 In this project, I tried to identifying the breed of the dog in the frame using the dataset from kaggle. I used TensorFlow 2.x and TensorFlow Hub in this project.
 
 [Dataset Link](https://www.kaggle.com/c/dog-breed-identification/data)
